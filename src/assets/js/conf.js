@@ -2,9 +2,9 @@
 import store from 'store';
 
 var Rxports = {
-	appname:"云收银",
-	url_host:window.location.host,
-	background:'#FBF9FE', 
+	appname: "CS",
+	url_host: window.location.host,
+	background: '#F3F3F3', 
 }
 
 export default Rxports;
